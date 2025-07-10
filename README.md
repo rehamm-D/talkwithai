@@ -36,3 +36,6 @@ Devoted to delivering intelligent user interaction through conversational AI.
 ### 📄 License
 MIT — Feel free to fork, modify, and learn 🌱
 
+
+### 🚀 Live Demo - COMING SOON
+The project will be live soon – deployment in progress. Stay tuned 💛
