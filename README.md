@@ -1,7 +1,7 @@
-# TALKwithAI 💬🤖
+# TALKwithAI 💬🤖 by TANISHA 💛
 
 ### YOUR AI FRIENDLY DOST :)
-**Your personalized AI chatbot experience — crafted with love and logic 💛 **
+Your personalized AI chatbot experience — crafted with love and logic 💛 
 
 ---
 
