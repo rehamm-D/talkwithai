@@ -6,7 +6,7 @@ Your personalized AI chatbot experience — crafted with love and logic 💛
 ---
 
 ### 🚀 Live Site  
-🌐 [https://talkwithai.vercel.app](#) *(Will be active after deployment)*
+🌐 [https://talkwithai-tanisha.vercel.app](#) *(Will be active after deployment)*
 
 ---
 
