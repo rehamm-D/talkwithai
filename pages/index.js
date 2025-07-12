@@ -39,8 +39,7 @@ export default function Home() {
               Vercel
             </a>
             &nbsp;and&nbsp;
-            <a href="https://chatbase.co" target="_blank" rel="noreferrer" className="text-teal-400 hover:underline">
-              Chatbase
+        
             </a>
             .
           </p>
