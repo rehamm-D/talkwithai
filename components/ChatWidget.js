@@ -9,7 +9,7 @@ export default function ChatWidget() {
 
     const iframe = document.createElement("iframe");
     iframe.src =
-      "https://www.chatbase.co/chatbot-iframe/YOUR_BOT_ID?ts=" + Date.now(); // <-- replace this ID
+      "https://www.chatbase.co/chatbot-iframe/h2TQy42fYCXoUo6RHNik2?ts=" + Date.now(); // <-- replace this ID
     iframe.width = "100%";
     iframe.height = "500";
     iframe.style.border = "none";
