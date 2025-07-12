@@ -42,7 +42,10 @@ After weeks of building, breaking, and believing — my personal project TALKwit
 It’s not just an AI chatbot — it’s a friendly, emotionally intelligent companion created with purpose and vision.
 
 🔗 Check it out here: https://talkwithai-tanisha.vercel.app
+
 💬 Built using: HTML, CSS, JavaScript & deployed on Vercel
+
 👩‍💻 Director of Media & Creator: Tanisha Hasan
+
 ❤️ Purpose: To offer smart yet gentle conversations, making AI feel more human and connected.
 
