@@ -38,7 +38,7 @@ export default function Home() {
             <a href="https://vercel.com" target="_blank" rel="noreferrer" className="text-teal-400 hover:underline">
               Vercel
             </a>
-            &nbsp;and&nbsp;
+          
         
             </a>
             .
