@@ -34,14 +34,7 @@ export default function Home() {
         {/*   Footer   */}
         <footer className="mt-12 text-sm text-gray-500 text-center max-w-lg leading-relaxed">
           <p>
-            Built with ❤️ by <span className="font-medium text-gray-300">Tanisha Hasan</span>. Powered by&nbsp;
-            <a href="https://vercel.com" target="_blank" rel="noreferrer" className="text-teal-400 hover:underline">
-              Vercel
-            </a>
-          
-        
-            </a>
-            .
+            Built with ❤️ by <span className="font-medium text-gray-300">Tanisha Hasan</span>. 
           </p>
         </footer>
       </div>
