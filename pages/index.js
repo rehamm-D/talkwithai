@@ -1,11 +1,15 @@
-import Head from 'next/head'
+import Head from "next/head";
+import ChatWidget from "../components/ChatWidget";
 
 export default function Home() {
   return (
     <>
       <Head>
         <title>TALKwithAI – Your AI Friendly Dost</title>
-        <meta name="description" content="TALKwithAI – a gentle yet powerful AI companion for smarter conversations." />
+        <meta
+          name="description"
+          content="TALKwithAI – a gentle yet powerful AI companion for smarter conversations."
+        />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -23,13 +27,8 @@ export default function Home() {
 
         {/*   Chatbot Embed   */}
         <section className="w-full max-w-3xl rounded-2xl shadow-xl overflow-hidden ring-1 ring-gray-800">
-          <iframe
-            src="https://www.chatbase.co/chatbot-iframe/h2TQy42fYCXoUo6RHNik2"
-            title="TALKwithAI Chatbot"
-            className="w-full h-[600px] bg-black"
-            frameBorder="0"
-            allow="clipboard-write"
-          ></iframe>
+          {/* Replaced static iframe with ChatWidget for fresh sessions */}
+          <ChatWidget />
         </section>
 
         {/*   Footer   */}
@@ -39,7 +38,6 @@ export default function Home() {
             <a href="https://vercel.com" target="_blank" rel="noreferrer" className="text-teal-400 hover:underline">
               Vercel
             </a>
-            
             &nbsp;and&nbsp;
             <a href="https://chatbase.co" target="_blank" rel="noreferrer" className="text-teal-400 hover:underline">
               Chatbase
@@ -49,5 +47,5 @@ export default function Home() {
         </footer>
       </div>
     </>
-  )
+  );
 }
