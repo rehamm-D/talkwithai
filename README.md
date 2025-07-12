@@ -6,7 +6,7 @@ Your personalized AI chatbot experience — crafted with love and logic 💛
 ---
 
 ### 🚀 Live Site  
-🌐 [https://talkwithai-tanisha.vercel.app](#) *(Will be active after deployment)*
+🌐 https://talkwithai-tanisha.vercel.app
 
 ---
 
@@ -37,5 +37,12 @@ Devoted to delivering intelligent user interaction through conversational AI.
 MIT — Feel free to fork, modify, and learn 🌱
 
 
-### 🚀 Live Demo - COMING SOON
-The project will be live soon – deployment in progress. Stay tuned 💛
+### 🚀 IT'S OFFICIALLY LIVE – Meet TALKwithAI 💡
+After weeks of building, breaking, and believing — my personal project TALKwithAI is now live and breathing on the internet! 💻🌍
+It’s not just an AI chatbot — it’s a friendly, emotionally intelligent companion created with purpose and vision.
+
+🔗 Check it out here: https://talkwithai-tanisha.vercel.app
+💬 Built using: HTML, CSS, JavaScript & deployed on Vercel
+👩‍💻 Director of Media & Creator: Tanisha Hasan
+❤️ Purpose: To offer smart yet gentle conversations, making AI feel more human and connected.
+
