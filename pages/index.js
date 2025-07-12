@@ -24,7 +24,7 @@ export default function Home() {
         {/*   Chatbot Embed   */}
         <section className="w-full max-w-3xl rounded-2xl shadow-xl overflow-hidden ring-1 ring-gray-800">
           <iframe
-            src="https://www.chatbase.co/chatbot-iframe/yourBotID"
+            src="https://www.chatbase.co/chatbot-iframe/h2TQy42fYCXoUo6RHNik2"
             title="TALKwithAI Chatbot"
             className="w-full h-[600px] bg-black"
             frameBorder="0"
