@@ -1,7 +1,9 @@
-# TALKwithAI 💬🤖 by TANISHA 💛
+# TALKwithAI - YOUR AI FRIENDLY DOST :) 💛
 
-### YOUR AI FRIENDLY DOST :)
+### 👩‍💻 Director of Media & Creator: Tanisha Hasan 
 Your personalized AI chatbot experience — crafted with love and logic 💛 
+
+---
 
 ### 🚀 IT'S OFFICIALLY LIVE – Meet TALKwithAI 💡
 After weeks of building, breaking, and believing — my personal project TALKwithAI is now live and breathing on the internet! 💻🌍
@@ -11,8 +13,6 @@ It’s not just an AI chatbot — it’s a friendly, emotionally intelligent com
 🔗 Check it out here: https://talkwithai-tanisha.vercel.app
 
 💬 Built using: HTML, CSS, JavaScript & deployed on Vercel
-
-👩‍💻 Director of Media & Creator: Tanisha Hasan
 
 ❤️ Purpose: To offer smart yet gentle conversations, making AI feel more human and connected.
 
