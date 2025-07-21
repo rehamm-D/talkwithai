@@ -5,7 +5,7 @@ Your personalized AI chatbot experience — crafted with love and logic 💛
 
 ---
 
-### 🚀 IT'S OFFICIALLY LIVE – Meet TALKwithAI 💡
+### 🚀 IT'S OFFICIALLY LIVE – Meet TALKwithAI 💡 
 After weeks of building, breaking, and believing — my personal project TALKwithAI is now live and breathing on the internet! 
 💻🌍 It’s not just an AI chatbot — it’s a friendly, emotionally intelligent companion created with purpose and vision.
 
