@@ -10,7 +10,7 @@ export default function Home() {
           name="description"
           content="TALKwithAI – a gentle yet powerful AI companion for smarter conversations."
         />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.png" />
       </Head>
 
       {/*   Page Wrapper   */}
